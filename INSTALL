@@ -13,7 +13,7 @@ Linux:
     3.) Type 'sudo make install' to install the program.
 
 Mac OS X:
-    1.) Type 'qmake -spec macx-g++' to configure the program.
+    1.) Type 'qmake -spec macx-clang' to configure the program.
 
     2.) Type 'make' to compile the program.
 
